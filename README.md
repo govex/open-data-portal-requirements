@@ -7,15 +7,15 @@ Github accounts are required.
 
 # Open Data Portal Requirements
 
-## Introduction
+### Introduction
 This document contains a set of sample requirements to help governments evaluate, develop (or procure), deploy, and launch an open data web site (portal).
 
-## Terms
+### Terms
 The following terms are used throughout the requirements to indicate importance.
 * **Must** denotes a requirement that is critical to the successful implementation of the open data portal. If this requirement is not met, it will significantly impair the use or management of the site.
 * **May** denotes a requirement that is optional, but highly desirable for success.
 
-## Roles
+### Roles
 The following roles are used throughout this document to approximate to whom each requirement is relevant. They are not intended to reflect a permission system, which might be implemented by a technology solution.
 * A **customer** is anyone who visits the portal to find, and access, and use data.
 * Typically, a **publisher** is a government employee who is responsible for publishing or updating data and other content on the portal.
