@@ -5,7 +5,7 @@
 
 Github accounts are required.
 
-# open-data-portal-requirements
+# Open Data Portal Requirements
 
 ## Introduction
 This document contains a set of sample requirements to help governments evaluate, develop (or procure), deploy, and launch an open data web site (portal).
