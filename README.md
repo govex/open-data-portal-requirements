@@ -40,7 +40,8 @@ A data catalog is a listing of available data, with each catalog entry correspon
 ### Administrators
 * must be able to create, edit, and retire metadata categories
 * must be able to configure default sorting for data catalog
-* must be able to configure look-and-feel of data catalog
+* must be able to configure global settings for data catalog, including color theme, branding/logo, titling.
+* may be able to configure additional global settings for data catalog, including custom Cascading Style Sheets (CSS), homepage display elements and layout, displayed catalog elements, and more.
 
 ## Data Storage & Management Features
 
