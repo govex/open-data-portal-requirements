@@ -104,3 +104,5 @@ A data catalog is a listing of available data, with each catalog entry correspon
 * API calls which are invalid or fail must return the appropriate HTTP response status code (404, 500, etc) and status message.
 * The portal must be accessible through a city-provided Internet domain name (e.g. “data.somecity.gov”).
 * Transport Layer Security (TLS) must be used for account registration, logging in, and all actions performed by publishers and administrators.
+* Web pages must be accessible on large-screen devices (desktop computers, laptops, etc)
+* Web pages may be accessible on small-screen devices (mobile/smart phones, tablets, etc)
