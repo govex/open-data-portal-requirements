@@ -1,10 +1,3 @@
-*Note*: This content is not yet available through gitbooks. GovEx team members can make direct edits to this file. Other partners should use the following approaches:
-* propose direct edits to this file (will automatically fork and create pull request)
-* fork this repository, make edits, and send a pull request
-* create issues in this repository which the GovEx team will resolve.
-
-Github accounts are required.
-
 # Open Data Portal Requirements
 
 ### Introduction
