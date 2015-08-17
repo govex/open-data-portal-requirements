@@ -12,7 +12,7 @@ The following terms are used throughout the requirements to indicate importance.
 The following roles are used throughout this document to approximate to whom each requirement is relevant. They are not intended to reflect a permission system, which might be implemented by a technology solution.
 * A **customer** is anyone who visits the portal to find, and access, and use data.
 * Typically, a **publisher** is a government employee who is responsible for publishing or updating data and other content on the portal.
-* Typically, an **administrator** is a government employee who manages the technical and configurableconfiguration options of the portal, such as visual themes, metadata requirements, etc.
+* Typically, an **administrator** is a government employee who manages the technical and configuration options of the portal, such as visual themes, metadata requirements, etc.
 
 Generally, a publisher can do anything a customer can do, and an administrator can do anything a publisher can do.
 
