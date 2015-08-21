@@ -66,7 +66,7 @@ A data catalog is a listing of available data, with each catalog entry correspon
 
 ### Customers
 * must be able to provide comments and feedback on individual data resources
-* must be able to nominate data resources for public release
+* may be able to nominate data resources for public release
 * may be able to provide comments and feedback on the data catalog
 
 ### Publishers
