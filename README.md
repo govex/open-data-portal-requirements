@@ -22,7 +22,7 @@ A data catalog is a listing of available data, with each catalog entry correspon
 ### Customers
 * must be able to search for datasets by one or more terms contained in dataset metadata
 * must be able to browse or explore data by category
-* must be able to download the catalog in a machine-readable format compatible with the common core metadata schema from a well-known address (typically /data.json)
+* must be able to download the catalog in a machine-readable format compatible with the [common core metadata schema](https://project-open-data.cio.gov/v1.1/metadata-resources/) from a well-known address (typically /data.json)
 * must be able to view a summary page for each dataset which details data resources, metadata, and other relevant documentation
 * may be able to search for datasets by terms contained in the data
 
