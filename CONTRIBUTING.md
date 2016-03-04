@@ -2,7 +2,7 @@
 
 We're so glad you're thinking about contributing to GovEx guidance. 
 
-Before contributing, we encourage you to read our CONTRIBUTING guide (you are here) and review our [LICENSE](https://github.com/govex/open-data-portal-requirements/blob/master/LICENSE.md). If you have any questions, you can email the GovEx team at [govex@jhu.edu](mailto:govex@jhu.edu).
+Before contributing, we encourage you to read our CONTRIBUTING guide (you are here) and review our [LICENSE](https://github.com/govex/open-data-portal-requirements/blob/license-contributing/LICENSE.md). If you have any questions, you can email the GovEx team at [govex@jhu.edu](mailto:govex@jhu.edu).
 
 ## Ways to Contribute
 
