@@ -13,7 +13,7 @@ If you do not already have a GitHub account, you can [sign up for GitHub here](h
 - by writing or editing documentation
 - by writing code and documentation (**no pull request is too small**: fix typos, add code comments, clean up inconsistent whitespace)
 - by reviewing [pull requests](https://github.com/govex/open-data-portal-requirements/pulls)
-- by addressing issues
+- by addressing [issues](https://github.com/govex/open-data-portal-requirements/issues)
 
 #### Submit Great Issues
 * Before submitting a new [issue](https://github.com/govex/open-data-portal-requirements/issues), check to make sure [a similar issue isn't already open](https://github.com/govex/open-data-portal-requirements/issues?q=is%3Aissue+is%3Aopen). If one is, contribute to that issue thread with your feedback.
