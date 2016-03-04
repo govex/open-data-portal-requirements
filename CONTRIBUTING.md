@@ -19,6 +19,6 @@ If you do not already have a GitHub account, you can [sign up for GitHub here](h
 * Before submitting a new [issue](https://github.com/govex/open-data-portal-requirements/issues), check to make sure [a similar issue isn't already open](https://github.com/govex/open-data-portal-requirements/issues?q=is%3Aissue+is%3Aopen). If one is, contribute to that issue thread with your feedback.
 * When submitting suggestions for new content, please try to provide as much detail as possible, including the rationale for the new content and any supportive real life documentation. 
 
-## CC-BY 4.0
+## Copyright
 
-All in-line contributions to this project will be released as a GovEx project under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). By submitting a pull request, you are agreeing to assign your copyright interest to GovEx. Please do not contribute content you did not write yourself, unless you are certain you have the legal ability to do so. See CONTRIBUTING for more information.
+All in-line contributions to this project will be released as a GovEx project under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). By submitting a pull request, you are agreeing to assign your copyright interest to GovEx. Please do not contribute content you did not write yourself, unless you are certain you have the legal ability to do so. 
