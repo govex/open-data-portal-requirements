@@ -20,4 +20,4 @@ If you do not already have a GitHub account, you can [sign up for GitHub here](h
 
 ## CC-BY 4.0
 
-All in-line contributions to this project will be released as a GovEx project under Creative Commons Attribution 4.0 International (CC BY 4.0). By submitting a pull request, you are agreeing to assign your copyright interest to GovEx. Please do not contribute content you did not write yourself, unless you are certain you have the legal ability to do so. See CONTRIBUTING for more information.
+All in-line contributions to this project will be released as a GovEx project under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). By submitting a pull request, you are agreeing to assign your copyright interest to GovEx. Please do not contribute content you did not write yourself, unless you are certain you have the legal ability to do so. See CONTRIBUTING for more information.
