@@ -12,16 +12,16 @@ The following terms are used throughout the requirements to indicate importance.
 ### Roles
 The following roles are used throughout this document to approximate to whom each requirement is relevant. They are not intended to reflect a permission system, which might be implemented by a technology solution.
 
-* A **customer** is anyone who visits the portal to find, and access, and use data.
+* A **consumer** is anyone who visits the portal to find, and access, and use data.
 * Typically, a **publisher** is a government employee who is responsible for publishing or updating data and other content on the portal.
 * Typically, an **administrator** is a government employee who manages the technical and configuration options of the portal, such as visual themes, metadata requirements, etc.
 
-Generally, a publisher can do anything a customer can do, and an administrator can do anything a publisher can do.
+Generally, a publisher can do anything a consumer can do, and an administrator can do anything a publisher can do.
 
 ## Data Catalog Features
 A data catalog is a listing of available data, with each catalog entry corresponding to one or more data resources. It usually includes high-level information for each dataset, such as Title, Description, Release Date, Category(-ies), and Keyword(s).
 
-### Customers
+### Consumers
 * must be able to search for datasets by one or more terms contained in dataset metadata
 * must be able to browse or explore data by category
 * must be able to download the catalog in a machine-readable format compatible with the [common core metadata schema](https://project-open-data.cio.gov/v1.1/metadata-resources/) from a well-known address (typically /data.json)
@@ -40,7 +40,7 @@ A data catalog is a listing of available data, with each catalog entry correspon
 
 ## Data Storage & Management Features
 
-### Customers
+### Consumers
 * must be able to download stored data in bulk
 * may be able to access stored data through a REST API
 
@@ -53,7 +53,7 @@ A data catalog is a listing of available data, with each catalog entry correspon
 
 ## Data Presentation Features
 
-### Customers
+### Consumers
 * must be able to preview data resources using an through their internet browser (for example, through a rows-and-columns grid or a map)
 * may be able to visualize data resources in a graphical way, including maps, graphs, charts, etc.
 * may be able to save visualizations with configuration settings for future viewing
@@ -62,37 +62,37 @@ A data catalog is a listing of available data, with each catalog entry correspon
 * may be able to create data visualizations and make them accessible through the data catalog or data resource page(s)
 
 ### Administrators
-* may be able to control whether customer-created data presentations are visible to other customers
+* may be able to control whether consumer-created data presentations are visible to other consumers
 
 ## Community Features
 
-### Customers
+### Consumers
 * must be able to provide comments and feedback on individual data resources
 * may be able to nominate data resources for public release
 * may be able to provide comments and feedback on the data catalog
 
 ### Publishers
-* must be able to view customer-nominated data resources
-* may be able to update the status of customer-nominated data resources
-* may be able to respond to customer-nominated data resources
-* may be able to view and respond to customer comments and feedback
-* may be able to review and approve visibility of customer comments and feedback
+* must be able to view consumer-nominated data resources
+* may be able to update the status of consumer-nominated data resources
+* may be able to respond to consumer-nominated data resources
+* may be able to view and respond to consumer comments and feedback
+* may be able to review and approve visibility of consumer comments and feedback
 
 ### Administrators
-* must track and analyze customer feedback
+* must track and analyze consumer feedback
 
 ## Accounts and Profiles
 
-### Customers
+### Consumers
 * may be able to register for an account with an email address
-* may be able to create, edit, or remove profile information which may be accessible to other customers
+* may be able to create, edit, or remove profile information which may be accessible to other consumers
 
 ### Publishers
-* may be able to grant specific, registered customers permission to access specific data resources that are owned by that publisher
+* may be able to grant specific, registered consumers permission to access specific data resources that are owned by that publisher
 
 ### Administrators
 * must be able to manage permissions for other administrators and publishers
-* must be able to disable customer accounts (if customer accounts are a feature of the portal)
+* must be able to disable consumer accounts (if consumer accounts are a feature of the portal)
 
 ## Non-Role Requirements
 The following requirements are general technical requirements which either don’t require a specific role or apply to all roles.
