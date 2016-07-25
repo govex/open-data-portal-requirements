@@ -54,7 +54,7 @@ A data catalog is a listing of available data, with each catalog entry correspon
 ## Data Presentation Features
 
 ### Consumers
-* must be able to preview data resources using an through their internet browser (for example, through a rows-and-columns grid or a map)
+* must be able to preview data resources through their internet browser (for example, through a rows-and-columns grid or a map)
 * may be able to visualize data resources in a graphical way, including maps, graphs, charts, etc.
 * may be able to save visualizations with configuration settings for future viewing
 
