@@ -1,105 +1,24 @@
-# Open Data Portal Requirements
+## Welcome!
 
-### Introduction
-This document contains a set of sample requirements to help governments evaluate, develop (or procure), deploy, and launch an open data web site (portal).
+We're so glad you're thinking about contributing to GovEx guidance. 
 
-### Terms
-The following terms are used throughout the requirements to indicate importance.
+Before contributing, we encourage you to read our CONTRIBUTING guide (you are here) and review our [LICENSE](https://github.com/govex/open-data-portal-requirements/blob/license-contributing/LICENSE.md). If you have any questions, you can email the GovEx team at [govex@jhu.edu](mailto:govex@jhu.edu).
 
-* **Must** denotes a requirement that is critical to the successful implementation of the open data portal. If this requirement is not met, it will significantly impair the use or management of the site.
-* **May** denotes a requirement that is optional, but highly desirable for success.
+## Ways to Contribute
 
-### Roles
-The following roles are used throughout this document to approximate to whom each requirement is relevant. They are not intended to reflect a permission system, which might be implemented by a technology solution.
+If you do not already have a GitHub account, you can [sign up for GitHub here](https://github.com/). In the spirit of open data, everyone is encouraged to help improve this project. Here are some ways you can contribute:
+- by suggesting or drafting new content
+- by reporting and discussing technical or substantive issues
+- by translating content to a new language
+- by writing or editing documentation
+- by writing code and documentation (**no pull request is too small**: fix typos, add code comments, clean up inconsistent whitespace)
+- by reviewing [pull requests](https://github.com/govex/open-data-portal-requirements/pulls)
+- by addressing [issues](https://github.com/govex/open-data-portal-requirements/issues)
 
-* A **consumer** is anyone who visits the portal to find, and access, and use data.
-* Typically, a **publisher** is a government employee who is responsible for publishing or updating data and other content on the portal.
-* Typically, an **administrator** is a government employee who manages the technical and configuration options of the portal, such as visual themes, metadata requirements, etc.
+#### Submit Great Issues
+* Before submitting a new [issue](https://github.com/govex/open-data-portal-requirements/issues), check to make sure [a similar issue isn't already open](https://github.com/govex/open-data-portal-requirements/issues?q=is%3Aissue+is%3Aopen). If one is, contribute to that issue thread with your feedback.
+* When submitting suggestions for new content, please try to provide as much detail as possible, including the rationale for the new content and any supportive real life documentation. 
 
-Generally, a publisher can do anything a consumer can do, and an administrator can do anything a publisher can do.
+## Copyright
 
-## Data Catalog Features
-A data catalog is a listing of available data, with each catalog entry corresponding to one or more data resources. It usually includes high-level information for each dataset, such as Title, Description, Release Date, Category(-ies), and Keyword(s).
-
-### Consumers
-* must be able to search for datasets by one or more terms contained in dataset metadata
-* must be able to browse or explore data by category
-* must be able to download the catalog in a machine-readable format compatible with the [common core metadata schema](https://project-open-data.cio.gov/v1.1/metadata-resources/) from a well-known address (typically /data.json)
-* must be able to view a summary page for each dataset which details data resources, metadata, and other relevant documentation
-* may be able to search for datasets by terms contained in the data
-
-### Publishers
-* must be able to add, edit, or remove catalog entries
-* may be able to mark catalog entries as private so they are not visible to the public
-
-### Administrators
-* must be able to create, edit, and retire metadata categories
-* must be able to configure default sorting for data catalog
-* must be able to configure global settings for data catalog, including color theme, branding/logo, titling.
-* may be able to configure additional global settings for data catalog, including custom Cascading Style Sheets (CSS), homepage display elements and layout, displayed catalog elements, and more.
-
-## Data Storage & Management Features
-
-### Consumers
-* must be able to download stored data in bulk
-* may be able to access stored data through a REST API
-
-### Publishers
-* must be able to create new data resources
-* must be able to replace or update existing data resources
-
-### Administrators
-* must be able to manage permissions for other administrators and publishers
-
-## Data Presentation Features
-
-### Consumers
-* must be able to preview data resources through their internet browser (for example, through a rows-and-columns grid or a map)
-* may be able to visualize data resources in a graphical way, including maps, graphs, charts, etc.
-* may be able to save visualizations with configuration settings for future viewing
-
-### Publishers
-* may be able to create data visualizations and make them accessible through the data catalog or data resource page(s)
-
-### Administrators
-* may be able to control whether consumer-created data presentations are visible to other consumers
-
-## Community Features
-
-### Consumers
-* must be able to provide comments and feedback on individual data resources
-* may be able to nominate data resources for public release
-* may be able to provide comments and feedback on the data catalog
-
-### Publishers
-* must be able to view consumer-nominated data resources
-* may be able to update the status of consumer-nominated data resources
-* may be able to respond to consumer-nominated data resources
-* may be able to view and respond to consumer comments and feedback
-* may be able to review and approve visibility of consumer comments and feedback
-
-### Administrators
-* must track and analyze consumer feedback
-
-## Accounts and Profiles
-
-### Consumers
-* may be able to register for an account with an email address
-* may be able to create, edit, or remove profile information which may be accessible to other consumers
-
-### Publishers
-* may be able to grant specific, registered consumers permission to access specific data resources that are owned by that publisher
-
-### Administrators
-* must be able to manage permissions for other administrators and publishers
-* must be able to disable consumer accounts (if consumer accounts are a feature of the portal)
-
-## Non-Role Requirements
-The following requirements are general technical requirements which either don’t require a specific role or apply to all roles.
-
-* Data resources must be available for download in the format in which they were originally published on the portal
-* API calls which are invalid or fail must return the appropriate HTTP response status code (404, 500, etc) and status message
-* The portal must be accessible through a city-provided internet domain name (e.g. `data.somecity.gov`)
-* Transport Layer Security (TLS) must be used for account registration, logging in, and all actions performed by publishers and administrators
-* Web pages must be accessible on large-screen devices (desktop computers, laptops, etc.)
-* Web pages may be accessible on small-screen devices (mobile/smart phones, tablets, etc.)
+All in-line contributions to this project will be released as a GovEx project under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). By submitting a pull request, you are agreeing to assign your copyright interest to GovEx. Please do not contribute content you did not write yourself, unless you are certain you have the legal ability to do so. 
